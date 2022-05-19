@@ -141,6 +141,7 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 scene_to_load = "res://Decisions/Information5.tscn"
+array_pos = 23
 
 [node name="Button3" type="Button" parent="VBoxContainer/Main/questionAnswer/Answers"]
 margin_top = 98.0
